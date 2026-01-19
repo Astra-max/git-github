@@ -1,0 +1,1 @@
+git rm --cached -r unstageFile - Forcefully removes a file/directory from a staging area
