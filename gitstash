@@ -1,0 +1,2 @@
+git stash -  saves your local change temporarily in a commit
+             As you fetch remote changes
